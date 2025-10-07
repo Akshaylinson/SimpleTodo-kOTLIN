@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic colors your app refers to -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+
+    <!-- Material / theme tokens (add any additional ones referenced by themes) -->
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#1E1E1E</color>
+    <color name="surfaceVariant">#F2F2F2</color>
+    <color name="outline">#79747E</color>
+    <color name="background">#FFFFFF</color>
+    <color name="on_background">#1E1E1E</color>
+
+    <color name="primary">#6750A4</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primaryVariant">#3700B3</color>
+
+    <color name="secondary">#625B71</color>
+    <color name="on_secondary">#FFFFFF</color>
+
+    <color name="error">#B3261E</color>
+    <color name="on_error">#FFFFFF</color>
+
+    <!-- any simple app colors used in layouts -->
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200_alt">#64ffda</color>
+</resources>
