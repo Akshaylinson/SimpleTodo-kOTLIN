@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">SimpleTodo</string>
+
+    <!-- Main Activity -->
+    <string name="add_todo_hint">What needs to be done?</string>
+    <string name="add_button">ADD</string>
+    <string name="empty_state_title">No tasks yet</string>
+    <string name="empty_state_subtitle">Tap the + button to create your first task</string>
+    <string name="tasks_count">%1$d tasks</string>
+
+    <!-- Task Management -->
+    <string name="add_todo_title">Create New Task</string>
+    <string name="edit_todo_title">Edit Task</string>
+    <string name="save_changes">SAVE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="delete_task">Delete</string>
+    <string name="mark_completed">Mark Completed</string>
+    <string name="mark_incomplete">Mark Incomplete</string>
+
+    <!-- Due Date -->
+    <string name="set_due_date">Set Due Date</string>
+    <string name="set_due_optional">Set due date/time (optional)</string>
+    <string name="due_date_format">Due: %1$s</string>
+    <string name="due_colon">Due: %1$s</string>
+    <string name="overdue">Overdue!</string>
+
+    <!-- Priority -->
+    <string name="priority">Priority</string>
+    <string name="priority_normal">Normal</string>
+    <string name="priority_high">High</string>
+    <string name="priority_urgent">Urgent</string>
+
+    <!-- Voice Input -->
+    <string name="voice_prompt">Speak your todo</string>
+    <string name="voice_not_supported">Voice input not supported</string>
+    <string name="voice_input_error">Could not process voice input</string>
+
+    <!-- Notifications -->
+    <string name="notifications_enabled">Notifications enabled!</string>
+    <string name="notifications_disabled">Notifications disabled — reminders won\'t show</string>
+
+    <!-- Input Validation -->
+    <string name="enter_something">Enter something</string>
+
+    <!-- Undo Functionality -->
+    <string name="deleted_text">Task deleted</string>
+    <string name="undo">Undo</string>
+    <string name="task_deleted">Task deleted</string>
+    <string name="undo_action">UNDO</string>
+
+    <!-- Add/Edit Dialog -->
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+</resources>
